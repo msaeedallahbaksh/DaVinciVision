@@ -1,0 +1,6 @@
+*.artistdata
+*.pyc
+delete.py
+*.csv
+*.png
+*.jpg
