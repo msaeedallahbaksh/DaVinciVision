@@ -1,5 +1,5 @@
 # DaVinciVision 🎨
-Project for DSCI-471 where the aim is to build CNN prediction models which predict which artist created an artwork.
+Aim is to build CNN prediction models which predict which artist created an artwork.
 
 ## File Explanation
 - gitignore - contains file types to ignore for git.
